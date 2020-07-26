@@ -7,7 +7,7 @@ export default function Home() {
     <div style={{ color: `purple` }}>
       <Link to="/contact/">Contact</Link>
       <Header headerText="Hello Gatsby!" />
-      <p>What a world!  The year 2020 is turning out fucking mint!</p>
+      <p>The year 2020 is turning out fucking mint!</p>
     </div>
   )
 }
